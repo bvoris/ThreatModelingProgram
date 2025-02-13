@@ -57,36 +57,39 @@ Incorporate lessons from security incidents and red team exercises.</BR>
 Gather feedback and refine processes based on evolving threats.</BR>
 
 ## References:
-1. Industry Standards & Frameworks</BR>
+Industry Standards & Frameworks</BR>
 Microsoft Threat Modeling Tool & STRIDE Framework</BR>
-
 Microsoft Threat Modeling Tool </BR>
 STRIDE Framework (Microsoft’s approach to categorizing threats)</BR>
+</BR>
 OWASP Threat Modeling Resources</BR>
-
 OWASP Threat Modeling</BR>
 Covers methodologies, best practices, and community-driven resources.</BR>
+</BR>
 NIST Special Publications</BR>
-
 NIST SP 800-30: Guide for Conducting Risk Assessments</BR>
 NIST Cybersecurity Framework (CSF): Framework for Improving Critical Infrastructure Cybersecurity</BR>
+</BR>
 MITRE ATT&CK Framework</BR>
-
 MITRE ATT&CK</BR>
 A knowledge base of cyber adversary tactics and techniques.</BR>
 
-2. Books on Threat Modeling</BR>
+</BR></BR>
+Books on Threat Modeling</BR>
 Threat Modeling: Designing for Security – Adam Shostack (2014)</BR>
 One of the most widely referenced books on threat modeling.</BR>
 The Security Development Lifecycle (SDL) – Michael Howard & Steve Lipner</BR>
 Discusses integrating security into the software development lifecycle.</BR>
+</BR></BR>
 
-3. Academic & Research Papers</BR>
+Academic & Research Papers</BR>
 A Taxonomy of Cyber Threat Modeling Methodologies (2018) – MITRE</BR>
 MITRE Cyber Threat Modeling Research</BR>
 Threat Modeling Manifesto (2020)</BR>
 Threat Modeling Manifesto – A community-driven initiative defining core values and principles.</BR>
-4. Open-Source & Commercial Threat Modeling Tools</BR>
+</BR></BR>
+
+Open-Source & Commercial Threat Modeling Tools</BR>
 Microsoft Threat Modeling Tool – Download</BR>
 OWASP Threat Dragon (open-source) – GitHub</BR>
 IriusRisk (commercial tool for automated threat modeling) – IriusRisk</BR>
