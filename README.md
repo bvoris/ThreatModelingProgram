@@ -69,7 +69,8 @@ Covers methodologies, best practices, and community-driven resources.</BR>
 NIST Special Publications</BR>
 NIST SP 800-30: Guide for Conducting Risk Assessments</BR>
 NIST Cybersecurity Framework (CSF): Framework for Improving Critical Infrastructure Cybersecurity</BR>
-</BR>
+</BR></BR>
+
 MITRE ATT&CK Framework</BR>
 MITRE ATT&CK</BR>
 A knowledge base of cyber adversary tactics and techniques.</BR>
@@ -77,7 +78,8 @@ A knowledge base of cyber adversary tactics and techniques.</BR>
 </BR></BR>
 Books on Threat Modeling</BR>
 Threat Modeling: Designing for Security – Adam Shostack (2014)</BR>
-One of the most widely referenced books on threat modeling.</BR>
+One of the most widely referenced books on threat modeling.</BR></BR>
+
 The Security Development Lifecycle (SDL) – Michael Howard & Steve Lipner</BR>
 Discusses integrating security into the software development lifecycle.</BR>
 </BR></BR>
