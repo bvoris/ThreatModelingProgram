@@ -1,30 +1,36 @@
 # Threat Modeling Program
 So you want to develop a threat modeling program?</BR>
-Developing a threat modeling program is crucial for identifying, assessing, and mitigating security risks in an organization’s systems and applications. Below are the steps to build an effective threat modeling program:
+This will be your starting guide to developing a threat modeling program for your organization. </BR>
+## Introduction
+Developing a threat modeling program is crucial for identifying, assessing, and mitigating security risks in an organization’s systems and applications. Below are the steps to build an effective threat modeling program:</BR>
 
-1. Define Objectives and Scope
-Identify what you want to protect (e.g., applications, systems, data).
-Define the security goals (e.g., confidentiality, integrity, availability).
-Establish boundaries (e.g., which assets, teams, or projects are included).
-2. Assemble a Cross-Functional Team
-Include security experts, developers, architects, and operations staff.
-Ensure participation from different stakeholders (e.g., business, compliance).
-Assign roles and responsibilities for maintaining the program.
-3. Select a Threat Modeling Methodology
-Choose an approach that fits your organization’s needs, such as:
+## 1. Define Objectives and Scope
+Identify what you want to protect (e.g., applications, systems, data).</BR>
+Define the security goals (e.g., confidentiality, integrity, availability).</BR>
+Establish boundaries (e.g., which assets, teams, or projects are included).</BR>
 
-STRIDE (Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege)
-PASTA (Process for Attack Simulation and Threat Analysis)
-DREAD (Damage, Reproducibility, Exploitability, Affected Users, Discoverability)
-Attack Trees (Graphical representation of attack paths)
-4. Develop a Threat Modeling Framework
-Define a structured process for conducting threat models.
-Ensure it integrates with your Software Development Life Cycle (SDLC).
-Establish templates and documentation guidelines.
-5. Identify and Categorize Assets
+## 2. Assemble a Cross-Functional Team
+Include security experts, developers, architects, and operations staff.</BR>
+Ensure participation from different stakeholders (e.g., business, compliance).</BR>
+Assign roles and responsibilities for maintaining the program.</BR>
+
+## 3. Select a Threat Modeling Methodology
+Choose an approach that fits your organization’s needs, such as:</BR>
+STRIDE (Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege)</BR>
+PASTA (Process for Attack Simulation and Threat Analysis)</BR>
+DREAD (Damage, Reproducibility, Exploitability, Affected Users, Discoverability)</BR>
+Attack Trees (Graphical representation of attack paths)</BR>
+
+## 4. Develop a Threat Modeling Framework
+Define a structured process for conducting threat models.</BR>
+Ensure it integrates with your Software Development Life Cycle (SDLC).</BR>
+Establish templates and documentation guidelines.</BR>
+
+## 5. Identify and Categorize Assets
 List critical assets (e.g., databases, applications, APIs, cloud services).
 Identify data flows and interactions between components.
 Use data flow diagrams (DFDs) or system architecture diagrams.
+
 6. Identify Threats and Vulnerabilities
 Use the chosen methodology (e.g., STRIDE) to analyze risks.
 Perform risk assessments and impact analysis.
