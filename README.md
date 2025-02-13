@@ -91,19 +91,14 @@ Microsoft Threat Modeling Tool – Download</BR>
 OWASP Threat Dragon (open-source) – GitHub</BR>
 IriusRisk (commercial tool for automated threat modeling) – IriusRisk</BR>
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/bvoris?style=social">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bvoris?style=social"><BR />
-<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/threatmodelingprogram">
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/threatmodelingprogram">
-<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/threatmodelingprogram/total">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/threatmodelingprogram">
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/threatmodelingprogram">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/threatmodelingprogram">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/threatmodelingprogram">
-
-
-  
 ## Connect with me at
 <A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
 <BR /><BR />
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/bvoris?style=social"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bvoris?style=social">
+<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/threatmodelingprogram"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/threatmodelingprogram"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/threatmodelingprogram/total"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/threatmodelingprogram"><img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/threatmodelingprogram"><img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/threatmodelingprogram">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/threatmodelingprogram">
+
+
+
 
