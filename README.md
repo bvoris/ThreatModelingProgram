@@ -86,9 +86,11 @@ Discusses integrating security into the software development lifecycle.</BR>
 
 Academic & Research Papers</BR>
 A Taxonomy of Cyber Threat Modeling Methodologies (2018) – MITRE</BR>
-MITRE Cyber Threat Modeling Research</BR>
+MITRE Cyber Threat Modeling Research</BR></BR>
+
 Threat Modeling Manifesto (2020)</BR>
 Threat Modeling Manifesto – A community-driven initiative defining core values and principles.</BR>
+https://www.threatmodelingmanifesto.org/</BR>
 </BR></BR>
 
 Open-Source & Commercial Threat Modeling Tools</BR>
