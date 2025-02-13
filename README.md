@@ -74,7 +74,8 @@ NIST Cybersecurity Framework (CSF): Framework for Improving Critical Infrastruct
 MITRE ATT&CK Framework</BR>
 MITRE ATT&CK</BR>
 A knowledge base of cyber adversary tactics and techniques.</BR>
-
+</BR>
+https://github.com/bvoris/mitreattackthreatmodeling</BR>
 </BR></BR>
 Books on Threat Modeling</BR>
 Threat Modeling: Designing for Security – Adam Shostack (2014)</BR>
